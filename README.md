@@ -8,14 +8,14 @@
 <br><br>
 
 <p>
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="175" align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="175" align="right" hspace="20">
 </p>
 
 <br>
 
-### **Hi I'm Ali Taherzadeh**  
-**Computer Science Student**  
-Shahid Beheshti University 
+### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Hi I'm Ali Taherzadeh**  
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; **Computer Science Student**  
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; Shahid Beheshti University 
 
 <br><br><br>
 
