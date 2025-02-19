@@ -20,34 +20,32 @@
 <br><br><br>
 
 <p>
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="50" align="right" vspace="30" hspace="30">
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="50" align="right" vspace="0" hspace="30">
 </p>
-<br>
+
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Skills**
 
 <br><br><br>
 <p>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" align="right" vspace="49" hspace="30">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="35" align="right" vspace="0" hspace="30">
 </p>
-<br>
+
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Projects**  
 
 <br><br>
 <p>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="60" align="right" vspace="70" hspace="20">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="60" align="right" vspace="0" hspace="20">
 </p>
-<br><br><br>
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Statistics**  
 
 <br><br>
 
 <p>
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="45" align="right" vspace="60" hspace="20">
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="45" align="right" vspace="0" hspace="20">
 </p>
-<br><br>
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Contact**  
 
@@ -55,6 +53,8 @@
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%">
 
+<br><br>
+---
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 - Perfect Loop
