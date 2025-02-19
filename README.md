@@ -1,63 +1,53 @@
-#  **Hello there !**
+<!-- #  **Hello there !**
+
+<br> -->
 
 <!-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" style="width: 50%;"> -->
 <!-- <br><br> -->
+---
+<br><br>
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="margin-bottom: 15px;">
-    <h3>
-    <strong>I'm Ali Taherzadeh</strong><br>
-    </h3><br>
-    <strong>Computer Science Student</strong><br>
-    Shahid Beheshti University
-  </div>
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="200">
-</div>
-<br></br>
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="175" align="right">
+</p>
 
+<br>
 
-<!-- ## Skills -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex-grow: 0.95;">
-    <h2>
-      <strong>Skills</strong><br>
-    </h2>
-  </div>
-  <img style="margin-right: -10px;" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="70" />
-</div>
-<br></br>
+### **Hi I'm Ali Taherzadeh**  
+**Computer Science Student**  
+Shahid Beheshti University 
 
-<!-- ## Projects -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex-grow: 0.95;">
-    <h2>
-      <strong>Projects</strong><br>
-    </h2>
-  </div>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50">
-</div>
-<br></br>
+<br><br><br>
 
-<!-- ## Statistics -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex-grow: 0.95;">
-    <h2>
-      <strong>Statistics</strong><br>
-  </div>
-<img style="margin-right: -20px;" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="80">
-</div>
-<br></br>
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="70" align="right">
+</p>
 
-<!-- ## Contact -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div style="flex-grow: 0.95;">
-    <h2>
-      <strong>Contact</strong><br>
-    </h2>
-  </div>
-<img style="margin-right: -15px;" src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="70" />
-</div>
-<br></br>
+## **Skills**
+
+<br>
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" align="right">
+</p>
+
+## **Projects**  
+
+<br>
+<p>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="80" align="right">
+</p>
+
+## **Statistics**  
+
+<br>
+
+<p>
+  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="70" align="right">
+</p>
+
+## **Contact**  
+
+<br>
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="100%">
 
