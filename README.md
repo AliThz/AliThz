@@ -84,10 +84,10 @@
 <br>
 <p align="center">
   <img
-   src="https://github-readme-stats.vercel.app/api?username=AliThz&show_icons=true&theme=dark#gh-dark-mode-only" width="80%">
+   src="https://github-readme-stats.vercel.app/api?username=AliThz&show_icons=true&theme=dark#gh-dark-mode-only">
     <!-- width="60%" align="right"> -->
   <img
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALiThz&layout=donut&theme=dark" width="80%" >
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALiThz&layout=donut&theme=dark" >
    <!-- width = "40%" align="right"> -->
 </p>
 
@@ -104,6 +104,7 @@
 <!-- <p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="70%">
 </p> -->
+
 <br><br>
 
 ---
