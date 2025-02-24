@@ -81,6 +81,13 @@
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Statistics**
 
+<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ALiThz&layout=donut&theme=dark" />
+
+  [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+</p>
+
 <br><br>
 
 <p>
