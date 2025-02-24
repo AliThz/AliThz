@@ -1,4 +1,6 @@
-<br><br>
+---
+
+<br>
 
 <p>
   <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="175" align="right" hspace="60">
@@ -91,12 +93,10 @@
 
 ## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Contact** -->
 
-<br><br>
+<br>
 
 <!-- <p align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="70%">
 </p> -->
-
-<br><br>
 
 ---
